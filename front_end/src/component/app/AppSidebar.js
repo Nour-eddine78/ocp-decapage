@@ -208,8 +208,8 @@ export function AppSidebar() {
               </div>
               {isOpen && (
                 <div className="overflow-hidden">
-                  <h1 className="text-lg sm:text-xl font-bold text-white">OCP Portal</h1>
-                  <p className="text-xs text-emerald-200">Management System</p>
+                  <h1 className="text-lg sm:text-xl font-bold text-white">Décapage OCP</h1>
+                  <p className="text-xs text-emerald-200"> Système de gestion de l’OCP</p>
                 </div>
               )}
             </div>
